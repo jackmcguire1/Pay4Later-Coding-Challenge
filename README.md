@@ -1,7 +1,7 @@
 # Pay4Later-Coding-Challenge
 This is a solution to a coding exercise which I had to complete as part of the application process, for a Junior Software Development position.
 
-* Candidates were allowed to use a programming language of their choice, I choseto implement my solution using JAVA.
+* Candidates were allowed to use a programming language of their choice, I chose to implement my solution using JAVA.
 
 ## The Task 
 
